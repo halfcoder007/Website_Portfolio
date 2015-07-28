@@ -1,0 +1,175 @@
+
+/*************************
+*******Tools CSS*******
+**************************/
+#tools {
+  text-align: center;
+  background-image: url(../images/black-bg.png);
+}
+
+#tools i {
+  font-size: 48px;
+}
+
+#tools h3 {
+  margin-top: 15px;
+  font-size: 30px;
+  margin-bottom: 7px;
+  color: #fff;
+}
+
+#tools .slider-overlay {
+  opacity: 0.8;
+}
+
+
+/*************************
+*******medparallax CSS*******
+**************************/
+
+
+
+
+.medmedparallax {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.medparallax,
+.medparallax h1,
+.medparallax h2,
+.medparallax h3,
+.medparallax h4,
+.medparallax h5,
+.medparallax h6 {
+  color: #fff;
+}
+
+.medparallax input[type="text"],
+.medparallax input[type="text"]:hover,
+.medparallax input[type="email"],
+.medparallax input[type="email"]:hover,
+.medparallax input[type="url"],
+.medparallax input[type="url"]:hover,
+.medparallax input[type="password"],
+.medparallax input[type="password"]:hover,
+.medparallax textarea,
+.medparallax textarea:hover {
+  font-weight: 300;
+  color: #fff;
+}
+
+.btn {
+  border: 0;
+  border-radius: 0;
+}
+
+.btn.btn-primary:hover {
+  background-color: #017fb5;
+}
+
+.navbar-nav li a:hover, 
+.navbar-nav li a:focus {
+  outline:none;
+  outline-offset: 0;
+  text-decoration:none;  
+  background: transparent;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+}
+
+a:focus, 
+a:hover {
+  text-decoration: none;
+  outline: none
+}
+
+section {
+  padding: 35px 0;
+}
+
+.heading {
+  padding-bottom:90px;
+}
+
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999999;
+  background: #fff;
+}
+
+.preloader > i {
+  position: absolute;
+  font-size: 36px;
+  line-height: 36px;
+  top: 50%;
+  left: 50%;
+  height: 36px;
+  width: 36px;
+  margin-top: -15px;
+  margin-left: -15px;
+  display: inline-block;
+}
+
+
+
+#we-are-hiring a:hover{
+opacity:0.5;
+}
+
+
+#we-are-hiring {
+	position: fixed;
+	right: 0;
+	top: 45%;
+	z-index: 101
+}
+
+
+#like-fb {
+	position: fixed;
+	right: 0;
+	top: 17%;
+	z-index: 101
+}
+
+#follow-fb {
+	position: fixed;
+	right: 0;
+	top: 28%;
+	z-index: 101
+}
+
+#follow-tw {
+	position: fixed;
+	right: 0;
+	top: 39%;
+	z-index: 101
+}
+
+
+
+
+#servimg {
+float:right
+}
+
+.career {
+	background: #f1f1f1;
+	border: 1px solid #CCC;
+	padding: 0 10px;
+	border-radius: 5px;
+	margin-bottom: 20px
+}

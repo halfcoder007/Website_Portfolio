@@ -1,0 +1,2 @@
+Main page small image dimension:469X314
+blog page big image dim:1050X550
